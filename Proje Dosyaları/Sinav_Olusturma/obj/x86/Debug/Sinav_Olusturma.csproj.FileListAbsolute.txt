@@ -1,0 +1,113 @@
+C:\Users\OEM\Desktop\OnMuhasebe\Sinav_Olusturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe
+C:\Users\OEM\Desktop\OnMuhasebe\Sinav_Olusturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.pdb
+C:\Users\OEM\Desktop\OnMuhasebe\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form1.resources
+C:\Users\OEM\Desktop\OnMuhasebe\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Properties.Resources.resources
+C:\Users\OEM\Desktop\OnMuhasebe\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.GenerateResource.Cache
+C:\Users\OEM\Desktop\OnMuhasebe\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.exe
+C:\Users\OEM\Desktop\OnMuhasebe\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.pdb
+C:\Users\OEM\Desktop\OnMuhasebe\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form2.resources
+C:\Users\OEM\Desktop\OnMuhasebe\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csprojResolveAssemblyReference.cache
+C:\Users\OEM\Desktop\OnMuhasebe\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form3.resources
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.exe
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.pdb
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.pdb
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csprojResolveAssemblyReference.cache
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form1.resources
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form2.resources
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form3.resources
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Properties.Resources.resources
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.GenerateResource.Cache
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.ResolveComReference.cache
+C:\Users\OEM\Documents\Visual Studio 2010\Projects\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form4.resources
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.ResolveComReference.cache
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.exe
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.pdb
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.pdb
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form1.resources
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form2.resources
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form3.resources
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form4.resources
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Properties.Resources.resources
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form5.resources
+C:\Users\Burak\Desktop\Sınav\Sinav_Olusturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form6.resources
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.ResolveComReference.cache
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.exe
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.pdb
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.pdb
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csprojResolveAssemblyReference.cache
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form1.resources
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form2.resources
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form5.resources
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form6.resources
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Properties.Resources.resources
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.GenerateResource.Cache
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.mdf
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma_log.ldf
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe.config
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe.manifest
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.application
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.TrustInfo.xml
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.exe.manifest
+C:\Users\OEM\Desktop\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.application
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe.config
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.ResolveComReference.cache
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.exe
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.pdb
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.mdf
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma_log.ldf
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe.manifest
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.application
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.pdb
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csprojResolveAssemblyReference.cache
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form1.resources
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form2.resources
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form5.resources
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form6.resources
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Properties.Resources.resources
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.GenerateResource.Cache
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.TrustInfo.xml
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.exe.manifest
+C:\Users\Burak Boz\Desktop\sınav\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.application
+C:\Users\Burak Boz\Desktop\Masaüstü\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe.config
+C:\Users\Burak Boz\Desktop\Masaüstü\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.ResolveComReference.cache
+C:\Users\Burak Boz\Desktop\Masaüstü\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.exe
+C:\Users\Burak Boz\Desktop\Masaüstü\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.pdb
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csprojAssemblyReference.cache
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.ResolveComReference.cache
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form1.resources
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form2.resources
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form5.resources
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form6.resources
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Properties.Resources.resources
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.GenerateResource.cache
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.CoreCompileInputs.cache
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.TrustInfo.xml
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.exe
+D:\Test Oluşturma\Sınav Oluşturma\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.pdb
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form1.resources
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form2.resources
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form5.resources
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Form6.resources
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.Properties.Resources.resources
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.TrustInfo.xml
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.exe
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.pdb
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.mdf
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\bin\Debug\Sinav_Olusturma_log.ldf
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe.config
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe.manifest
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.application
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.exe
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\bin\Debug\Sinav_Olusturma.pdb
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.exe.manifest
+C:\Users\user\Desktop\Github projeler\Test Oluşturma Otomasyonu\Proje Dosyaları\Sinav_Olusturma\obj\x86\Debug\Sinav_Olusturma.application

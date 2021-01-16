@@ -1,0 +1,94 @@
+00000    2A                         CDABAABDAAADDBDDBACCABCDADCCCBDCCDCDBBDA                                                            
+00000    2B                         BDABAABDAAADDBDDBACCABCDADCCCBDCCDCDBBDB                                                            
+3615150172BVEYSEL GÖKÇEK            CDABAABDAAADDBDDBACCABCDADCCCBDCCDCDBBDA                                                            
+3615151072AOÐUZHAN MÝRAÇ DUMAN      ADACAABDAAADABDDBACBABCAADCCABDCADBDDCDA                                                            
+3615150982AMEHMET EROL              ADABAABDAAADDBDDBACBABCAAADCCBDBBDBDDABA                                                            
+3615151022AÖMER FARUK ERTÜRK        CDACAABDAAADABAABACBABCDADCCCBDACDCDBCBA                                                            
+3615150022AKADRÝYE FATMA DÖNMEZ     BDBBAAAAAAADDBBABACBAABDDCBCCADACDBDBBBA                                                            
+3615150792AFATMANUR KARAASLAN       ADABAABDAAADABADBACBABCDADACCBDCCDCDDADA                                                            
+3615150592AGAMZE AKIN               CDDDAADDAAADABDDBACCABADAADCCADCCACDBABA                                                            
+3615150372AHAKAN KARABULUT          CDABAABDAAADDBDABAACABCDADCCCBDCCDCDDADA                                                            
+3615130562AUMUR SARI                BBABBABBAABACBBABACDABCABCBCBAACCCBDACCA                                                            
+3615140942AFIRAT ZEDE               CDABAADDAAADCBBCBACBABCBADDCCBDACAADBBBA                                                            
+3615168212AMERT ALÝ GENCER          ADACAABDAAADABADBACCABCAADCCCBDCCDCDBCDA                                                            
+3615150782ATARIKÞENSOY               DCBAABDADADCBBDBACBABAAAD CABDADCCDDCBA                                                            
+3615150222AAYÞENUR ÝBÝÞ             ABABAACCACACDCAABACBABDBBCBADAAABDADBBAA                                                            
+3615141082AEMRE DOLU                BBABBABBAABACBAABBBAABBDACBCBAACDBADBDDD                                                            
+3615151102ABATUHAN BÝRLÝK           CDACAABDAAADABDDBACBABCDADCCDBDCCDBDBCDA                                                            
+3615130922AMERT ÞÝMÞEK              DDABCBADAADBBBCABADDADCACDDBCBACCCBDABAA                                      
+3615151082ASÜMEYRA BÝNGÖL           ADACAABDADBCABDDBACCADCBADCACBDACCCCCCBA                                                            
+3615150332AHALÝL ÝBRAHÝM ÖZDEMÝR    CDACAABDAADDABDDBACBABCDADCCDBDCCDBDBCDA                                                            
+3615138122AABDULVAHAP ÖÇ            BDACDAADAAADBBDDBACBABAACDCCDBDCCACDBADA                                                            
+3615150412AFATÝH OÐUZ ÖZKÖMEÇ       CDABAAADAACDABCABACBABCBADCCDADCCDBDCDDA                                                            
+3615150152AM SERKAN ÖZBEY           ADABAABAAAADDBDDBACBABCDDBDCDADACACDCCBA                                                            
+3615150942AHASAN KIVANÇ YILMAZ      ADADABDDAAADABDBBACBABCBADCCCADACDCDBADA                                                            
+3615150212ANESRÝN DEÐÝRMENCÝ        ADACAABDAAADDBDDBACBABBDBDDCDADACDBDBCAA                                                            
+3615158412AMEVLÜT AKGÜN             CDABAAADAAADABCABACBABCABDCCDAACCDBDCDDA                                                            
+3615130122ARESUL YETKÝNER           ADABABCAACDDBBABBACBABCDDADCCADCCDBDBACA                                                            
+3615150532ADOÐAN CÝNGÝSÝZ           CDACAABDAABDABDDBACBABCDADCCBBDCCDCDCCDA                                                            
+3615120162AESMA GÜVEN               CDACAACDADADABCABACABACBADBCAACCACBDDDDB                                                            
+3615150682AHÝLAL KOÇYÝÐÝT           BDDBDAADAABDBBDBAAABABDBBBCDCBDCBAADBCBD                                                            
+3615150312AUFUK LÖKÇE               CDACAABDAAADABDDBACBABCDADCCCBDADDBDBCDA                                                            
+3615140102AÖZLEM KARABULUT          AAACDAADACADABABBABAAABAAADBDCAACDBDACDA                                                            
+3615150572AOSMAN MURAT HAÞLAK       ADABAABAAAADABDBBADDABCBCBDBCAACCADDCAAA                                                            
+3615150852AEMÝRENGÝNCAN DUYSAK      CDACAABDAAADABDBBACBABCAABDCCBDCCACDBCBA                                                            
+3615150602AFURKAN ÇELÝK             ADACAABDAAADBBDBBACBAACCADBCCADACDCDBADA                                                            
+3615150822AABDULSAMET ÝNAN          CDDBBABDAABDABACBAABABBBBBCDCADCBAADBCBC                                                            
+3615150132AAHMET YAVUZ ORUÇ         BDACAAADAACDCBCABACBABCABACCDBACDCBDADBA                                                            
+3615150192AFATÝH KÖSEOÐLU           CDACAABDAAADBBBDBACBAADBAADACBDACBBDBADA                                                            
+3615150612ASAMED KÜRÞAT AYDOS       CDACAAADAACDABBABADBACCCADCCDBDADADDDDDA                                                            
+3615140382AARZU SÜLEYMANOÐLU        CDACBBADADADABCBBDCBACBDADCADDDACDBDAADA                                                            
+3615150902AMFURKAN SÜTÇÜ            BCDCABADADDDABBCDACBDCCADDBACBDBCCADADDD                                                            
+3615140872AKÜBRA GAYRETLÝ           CBACBBBDAAADABDDBACCACBAADCCDDDACDBDCADA                                                            
+3615150972AYUNUS EMRE KARADAÐ       ADACAAADAAADABBDBACBABBDADCACADACDDDAADA                                                            
+3615150482ANURÝ CAN AKTÜRK          CAACAABDAACDBBDDBACBABCDADCCDBDCCDCDBCDA                                                            
+36151 1002AÝBRAHÝM CAN TÜYLÜ        ADACAABDAABDBBDBBACBCBDBADBCCADACDBDDBBA                                                            
+3615150542AÖZLEM ÝLKBAHAR           CDDCAADDAAADCBDDBACBABCBBDCCABDADABDBBBA                                                            
+3615150442AALPEREN KARABULUT        CDACAADDAAADABDDBACBACCDABBCCBDCCACDBCAA                                                            
+3615150252AHEDÝYE TAÞAR             ADADAAADAADDDBADBACCABCDADBCCBDCADCDCCBA                                                            
+3615150712AESÝN EZGÝ ÇÝFÇÝ          CDACCAADAAACABDBBACCABBBADABCADCCDBDBCDB                                                            
+36 5150992AMUSTAFA KARABULUT        ADACAABDAABDDBCDBACBABCACBDCCBDCCACDBADA                                                            
+3615150342AÖZGE ÖZBÝNAR             CDABAABDAAADABDDBACCACBDACCCDADACDDDAADA                                                            
+3615150772AFATÝH KAYA               ADBDAABDAACDCBADBACCABBCADDCABDACAADABDA                                                            
+3615140601AYETER ALBAYRAK           ADABAABDAAADBBADBACDAACDADABCDDCCADDDBDA                                                            
+3615120242AFATMA ARSLAN             CDABDACCADADABDCDBADABCDBBBBADAACAADADAA                                                            
+3615130792ASAADET SALAN             CBACAADBACABABDCDABBABCABCDADACABCBBDDAC                                                            
+3615140442AEYÜPCAN BEYAZIT          CAACAAADAAAACBDBBACBABAAADBCCADABDDDBABA                                                            
+3615140312AKADÝR BAKÇAOÐLU          CAACABADAAAAABDCBACCABCBAADCCADACDDDBABA                                                            
+3615140322AALÝ KEMAL ÇOLAK          ADACAABDAAADABDBBACBACADAADBCADADDBDBBDA                                                            
+3615150422AFURKAN ZENGÝN            ADABAABDAAADABDDBAADABCDACCCCBDACABDBDAA                                                            
+3615130822ABURAK KARADAÐ            BABBAAADAAADABAABADBABBCADBCAABDCACDABAA                                                            
+3615130812AYASÝN GÜNEÞ              CABCAAADAAACBBABBACBDCAACABDCADCAACCBCDA                                                            
+3615140672ABARAN YILDIZ             CAACDBDAADAAABBAABBBDACABCBCCABCCABDDAAA                                                            
+3615150832AENES KAYGUSUZ            ADACBAADAAADABBDBACBABDDBCCCDBDCCADABABA                                                            
+3615130472AAYDIN SERTLER            CABCAAADAAADBDABBACCDBAACADBCADCAACDBCDA                                                            
+3615140412AMEHMET TUÐÞAT DENÝZ      CDAABABDAAACABDDAACCACBDADCCDDDACDBDBBDA                                                            
+3615140182AÜMÝT YILDIRIMDÝNÇ        CDACAADDAABDABDDBACBABCDADCCDBDACDBDBBDA                                                            
+3615150452AGÖKHAN AKKAYA            ADACAACDAAADDBBABACBAABBADCCABDACAADDCBA                                                            
+361515*882AABDUL KADÝR MOÐUL        ADABAABDAADDABDDBACDABCDADBCDBDCCACDBDDA                                                            
+3615150462AKAMÝL CAN ENGÝN          BDACABBDAABDBBDDBACDACCBADCCABDCCDBDBCBA                                                            
+3615150922AAYLÝN ALTUN              CDABAACDAACBDBADBAADABCBBADCCABACADDCCAA                                                            
+3615120032AUÐUR ARDUÇ               CDACAACAAAADABADBACBABCDDCBCCBDCCDDDCDAA                                                            
+3615151092AHAKAN TOPÇU              CDBCAACDAAADABDDBACBABCDADDCCBDACDCDBCDA                                                            
+3615150472ARECEP KANBÝR             ADACAABDAAADABDDBACBABCDACCCDBDACABDBCAA                                                            
+3615150512AAYSUN KABAHOR            BDACABADAADDABDBBADBAACAABBAACDADCBDBBBA                                                            
+3615150142AKAAN OZAN KILIÇ          CDACAABDAADDBADDBACCABBDAABCCADABDCDDCAA                                                            
+3615150752ANERGÝZ BÝRCAN            ADACBAADADADDBBADABBAACABDABAADACDBDCBBA                                                            
+3615140482ABATUHAN ABLAK            ADABAACAAADDBBBDBACBABCDBBBCCAACADBDCCAA                                                            
+3615150802AKUBÝLAY TOGAÇ            ADCCAABDADDDBBADBAABABBDABDCAADACACDCADA                                                            
+3615140192AKAZIM BURAK ARSLAN       CDACAAADAAADABDDBBCBABCDADCCAADACAADBCDA                                                            
+3615140332ASERKAN DEMÝRCÝ           CAACAABDAADDABDDBACDABCDADCCDBDACACDBADA                                                            
+3615150492AÖMER ÖZTÝN               BDACAABDAAADABBDBAADAACDADDCCDDACABDBCAA                                                            
+3615140812AFERDÝ DÖNMEZ             CDACAABAAAADABBDBACBABCDACDCAAACDABDCCBA                                                            
+3615130172AAHMET ÖZTÜRK             CDACAAADDABACBAADBDBAADAACBBBBDCBCADBDAA                                                            
+3615150812AEMÝRHAN BAYSAL           ADABBABDAAADABBDBADBABCDACDCADDACAADCCBA                                                            
+3615138172ASEMÝH TÖKSÖZ             CAACAABAACADABBDBADCAACDACBCDBDCCCDBDBDA                                                            
+3615130062AOZAN GÜLER               CDACBBADADABABDCBACBACCBCADBAADCBABDDDAA                                                            
+3615140972AOÐULCAN ÞILDIR           BDABCACAAADDABBDBACBAABBDABADDDBCDDDCBAA                                                            
+3615150502AHASANCAN GENÇ            CDABAABBADADABCDBACBABCDBDBCDBDACACDCCBA                                                            
+3615120372AMERT ÝNAL                CBBCABADADACABBABACBCCBACDDCDABCCCADBBBA                                                            
+3615120322AATAK*  KURTÇA            CDBBABADADACABBABAACCCBBCBDADDBCCADDCDDD                                                            
+3615140932AHAKAN AYDIN              CABBDBDADDBDCBDCABAADCDCACABBABCBCADCBBC                                                            
+3615140792AUÐUR GE NÇ               AADCAABAAADDBBABBABBAACADCABADDDCBBDCADA                                                            
+3615165042AMÜCAHÝT CÜCEN            CDACAADDAAADABDDBACBABCDADCCDBDACDBDBCDA                                                            
+3615130022ANURTEN AKTI              CDBBDAAAAAAAAB DD C D ACABBCABBACC AABDA                                                            
